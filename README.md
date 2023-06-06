@@ -1,1 +1,1 @@
-# Python10_Number_of_verbs_nouns_pronouns_and_adjectives-
+# Python10_Number_of_verbs_nouns_pronouns_and_adjectives
